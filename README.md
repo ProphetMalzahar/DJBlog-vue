@@ -1,7 +1,7 @@
 # vueblog-vue
 
 
-#这是项目的前端部分
+# 这是项目的前端部分
 
 ## Project setup
 ```
